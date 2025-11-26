@@ -1,0 +1,25 @@
+O dono de uma loja de brinquedos necessita de um projeto
+com um desing top
+ 
+criar um projeto de super-herois (MARVEL ou DC)
+Projeto em Dupla
+ 
+* layout Dinâmico
+* Banner
+* Imagem da Marvel 
+* Imagem da DC
+* Respeitar o protótipo
+* responsivo
+* minimo de 10 commits
+* Hospedar o Projeto no git Pages
+ 
+
+git pull e git push
+
+git checkout -b dev
+ 
+git checkout nome da branch
+ 
+dentro da master  
+
+git merge dev
